@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**TANYA-CHAN/TANYA-CHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there, I'm Tanya Chanchalani! 👋
 
 - 🔭 I’m currently working on Vcacination Sytem Using Ethereum
 - 🌱 I’m currently learning Flutter
