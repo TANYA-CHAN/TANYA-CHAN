@@ -7,6 +7,6 @@ Hi there, I'm Tanya Chanchalani! 👋
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can play the Uke!
 
-![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&theme=tokyonight&show_icons=true)
+![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&theme=vue&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact)](https://github.com/TANYA-CHAN/github-readme-stats)
