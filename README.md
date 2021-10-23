@@ -12,7 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact)](https://github.com/TANYA-CHAN/github-readme-stats)
 
 
-#Languages
+<h2>Languages</h2>
+<br>
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
