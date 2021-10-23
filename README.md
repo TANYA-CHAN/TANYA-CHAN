@@ -11,3 +11,4 @@ Hi there, I'm Tanya Chanchalani! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&langs_count=8)](https://github.com/TANYA-CHAN/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact)](https://github.com/TANYA-CHAN/github-readme-stats)
