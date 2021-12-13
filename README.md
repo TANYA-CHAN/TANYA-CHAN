@@ -22,5 +22,5 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a> -->
 <br>
 <!-- <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=TANYA-CHAN.TANYA-CHAN" />  -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-<img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=github"/>
+(https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!-- <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=github"/> -->
