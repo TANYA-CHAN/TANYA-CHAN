@@ -23,5 +23,4 @@
 <br>
 <!-- <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=TANYA-CHAN.TANYA-CHAN" />  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=github"/>
