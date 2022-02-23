@@ -23,3 +23,5 @@
 <!-- <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=github"/> -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=default)](https://git.io/streak-stats) -->
 <!-- <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=TANYA-CHAN.TANYA-CHAN" />  -->
+
+<img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=github"/>
