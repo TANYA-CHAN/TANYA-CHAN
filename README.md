@@ -8,10 +8,11 @@
 - ⚡ Fun fact: I can play the Uke!
  -->
 <!--  # Hello, I am Tanya Chanchalani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
+<p align ="center">
 ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&theme=default&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact)](https://github.com/TANYA-CHAN/github-readme-stats)
-
+</p>
 
 <!-- <h2>Languages</h2>
 <br>
@@ -26,3 +27,5 @@
 <!-- <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=TANYA-CHAN.TANYA-CHAN" />  -->
 
 <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=github"/>
+
+
