@@ -16,8 +16,8 @@
 
 <p align="center">
 <a href="https://github.com/TANYA-CHAN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=highcontrast&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
 </a>
 </p>
 
