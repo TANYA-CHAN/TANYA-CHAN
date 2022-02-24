@@ -6,13 +6,13 @@
 - 📫 How to reach me: tanyapesu@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can play the Uke!
- -->
-<!--  # Hello, I am Tanya Chanchalani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
+<!--  -->
+<!--  # Hello, I am Tanya Chanchalani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> --> -->
 <!-- ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&theme=default&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact)](https://github.com/TANYA-CHAN/github-readme-stats)
  -->
-# Profile Statistics
+# Hello, I am Tanya Chanchalani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
 <a href="https://github.com/TANYA-CHAN">
@@ -33,5 +33,5 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=default)](https://git.io/streak-stats) -->
 <!-- <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=TANYA-CHAN.TANYA-CHAN" />  -->
 
-<img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=github"/>
+<img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=xcode"/>
 
