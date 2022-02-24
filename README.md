@@ -8,9 +8,18 @@
 - ⚡ Fun fact: I can play the Uke!
  -->
 <!--  # Hello, I am Tanya Chanchalani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
-![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&theme=default&show_icons=true)
+<!-- ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&theme=default&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact)](https://github.com/TANYA-CHAN/github-readme-stats)
+ -->
+# Profile Statistics
+
+<p align="center">
+<a href="https://github.com/TANYA-CHAN">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=highcontrast&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=highcontrast"/>
+</a>
+</p>
 
 <!-- <h2>Languages</h2>
 <br>
@@ -26,12 +35,3 @@
 
 <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=github"/>
 
-
-# Profile Statistics
-
-<p align="center">
-<a href="https://github.com/TANYA-CHAN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=highcontrast&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=highcontrast"/>
-</a>
-</p>
