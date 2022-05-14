@@ -23,15 +23,10 @@
  <img height="180em" img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai" >
 </a> 
 </p>
-
-<details>
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=carlos3g&theme=radical&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
       <img align="left" img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"  >
 <img align="right"img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai" >
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=carlos3g&theme=radical" alt="Techs utilizadas nos projetos">
     </p>
-</details>
 
 
 <!-- display=block alt="3" -->
