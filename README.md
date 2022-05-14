@@ -36,4 +36,7 @@
 <!-- 
 <!-- <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=xcode"/> -->
 <!-- <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=github"/> --> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalashvasaniya&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+  </tr>
 <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=TANYA-CHAN.TANYA-CHAN" />  
