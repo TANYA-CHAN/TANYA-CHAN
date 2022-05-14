@@ -19,8 +19,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
  <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=xcode"/> 
- <img height="180em" img align="left" img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"  >
-<img height="180em" img align="right"img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai" >
+ < img align="left" img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"  >
+< img align="right"img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai" >
 </a> 
 </p>
 
