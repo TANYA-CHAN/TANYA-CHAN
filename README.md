@@ -50,4 +50,4 @@
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"  display=block width=100% height=auto alt="3" >
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai"  display=block width=100% height=auto ></td>
   </tr> -->
-<img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=TANYA-CHAN.TANYA-CHAN" />  
+<!-- <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=TANYA-CHAN.TANYA-CHAN" />   -->
