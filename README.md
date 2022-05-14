@@ -19,15 +19,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
  <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=xcode"/> 
- 
-   <tr>
-      <td><img height="180em"img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"  display=block alt="3" >
-   <img height="180em" img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai"  display=block ></td>
-  </tr>
- 
-</a>
+ <img height="180em"img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"  >
+ <img height="180em" img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai" ></td>
+</a> 
 </p>
-
+<!-- display=block alt="3" -->
 <!-- <h2>Languages</h2>
 <br>
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
