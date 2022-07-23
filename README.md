@@ -28,13 +28,13 @@
 <!-- <p> <img height = auto width = 100% img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"/>
 <img height =auto width = 100% img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai"/></p> -->
 
-
+<!-- 
 
 <div> <img height =auto  alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=github_dark" /> 
  <img height =auto alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=github_dark" /> </div>
 
 
-
+ -->
 <!-- display=block alt="3" -->
 <!-- <h2>Languages</h2>
 <br>
