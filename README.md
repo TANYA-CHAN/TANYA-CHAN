@@ -28,7 +28,12 @@
 <!-- <p> <img align="left" img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"/>
 <img align="right"img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai"/></p> -->
 
-<div> <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=github_dark" /> <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=github_dark" /> </div>
+
+
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=github_dark" /> 
+ <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=github_dark" />
+
+
 
 <!-- display=block alt="3" -->
 <!-- <h2>Languages</h2>
