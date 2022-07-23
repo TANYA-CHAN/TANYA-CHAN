@@ -25,8 +25,8 @@
 
 
 
-<!-- <p> <img align="left" width = 100% img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"/>
-<img align="right" width = 100% img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai"/></p> -->
+<!-- <p> <img height = auto width = 100% img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"/>
+<img height =auto width = 100% img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai"/></p> -->
 
 
 
