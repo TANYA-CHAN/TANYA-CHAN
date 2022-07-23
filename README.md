@@ -30,8 +30,8 @@
 
 
 
-<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=github_dark" /> 
- <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=github_dark" />
+<div> <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=github_dark" /> 
+ <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=github_dark" /> </div>
 
 
 
