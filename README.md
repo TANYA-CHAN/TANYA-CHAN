@@ -28,7 +28,7 @@
 <!-- <p> <img align="left" img src="https://github-readme-streak-stats.herokuapp.com/?user=TANYA-CHAN&theme=tokyonight"/>
 <img align="right"img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai"/></p> -->
 
-<div> <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArvindAroo&theme=github_dark" /> <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArvindAroo&theme=github_dark" /> <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArvindAroo&theme=github_dark&utcOffset=6" /> </div>
+<div> <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=github_dark" /> <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=github_dark" /> <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TANYA-CHAN&theme=github_dark&utcOffset=6" /> </div>
 
 <!-- display=block alt="3" -->
 <!-- <h2>Languages</h2>
