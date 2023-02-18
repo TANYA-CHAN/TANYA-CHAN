@@ -58,4 +58,4 @@
 
 
 
-<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github_dark" />
+<img height = auto width = 100% img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github_dark" />
