@@ -13,9 +13,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact)](https://github.com/TANYA-CHAN/github-readme-stats)
  -->
 <!-- # Hello, I am Tanya Chanchalani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
-
 <p align="center">
- <a href="https://github.com/TANYA-CHAN">
+  <a href="https://github.com/TANYA-CHAN">
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <div style="flex: 0 0 50%; margin: 10px;">
         <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=default" />
@@ -25,12 +24,17 @@
       </div>
     </div>
     <div style="display: flex; justify-content: center;">
-      <img height="189em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
-      <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
+      <div style="width: 50%; margin-right: 10px;">
+        <img height="189em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
+      </div>
+      <div style="width: 50%; margin-left: 10px;">
+        <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
+      </div>
     </div>
     <img height="auto" width="95%" alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github" />
   </a>
 </p>
+
 
 
 <!--  <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=xcode"/>  -->
