@@ -16,20 +16,21 @@
 
 <p align="center">
   <a href="https://github.com/TANYA-CHAN">
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 0;">
-      <div style="display: flex; flex-direction: column; justify-content: flex-start; align-items: stretch;">
-        <img alt="" style="flex: 1 0 auto; margin: 0;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=default" />
-        <img alt="" style="flex: 1 0 auto; margin: 0;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=default" />
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+      <div style="flex: 0 0 50%; margin: 10px;">
+        <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=default" />
       </div>
-      <div style="display: flex; flex-direction: column; justify-content: flex-start; align-items: stretch;">
-        <img alt="" style="flex: 1 0 70%; margin: 0;" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
-        <img alt="" style="flex: 1 0 30%; margin: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
+      <div style="flex: 0 0 50%; margin: 10px;">
+        <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=default" />
       </div>
     </div>
-    <img height="auto" width="100%" alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github" />
+    <div style="display: flex; justify-content: center;">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
+    </div>
+    <img height="auto" width="95%" alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github" />
   </a>
 </p>
-
 
 
 <!--  <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=xcode"/>  -->
