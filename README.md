@@ -20,6 +20,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
  
 <img height = auto width = 95% img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github" />
+
+
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=default" />
+
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=default" />
 <!--  <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=xcode"/>  -->
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai" width = 100% height =auto/> -->
 </a> 
@@ -57,14 +62,3 @@
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai"  display=block width=100% height=auto ></td>
   </tr> -->
 <!-- <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=TANYA-CHAN.TANYA-CHAN" />   -->
-
-
-<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=default" />
-
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=default" />
-
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=default" />
-
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TANYA-CHAN&theme=default" />
-
-<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TANYA-CHAN&theme=default&utcOffset=8" />
