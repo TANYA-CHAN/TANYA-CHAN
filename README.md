@@ -15,7 +15,7 @@
 <!-- # Hello, I am Tanya Chanchalani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 
 <p align="center">
-  <a href="https://github.com/TANYA-CHAN">
+ <a href="https://github.com/TANYA-CHAN">
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <div style="flex: 0 0 50%; margin: 10px;">
         <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=default" />
