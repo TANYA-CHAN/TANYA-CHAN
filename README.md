@@ -59,4 +59,12 @@
 <!-- <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=TANYA-CHAN.TANYA-CHAN" />   -->
 
 
+<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github_dark" />
 
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=github_dark" />
+
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=github_dark" />
+
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TANYA-CHAN&theme=github_dark" />
+
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TANYA-CHAN&theme=github_dark&utcOffset=8" />
