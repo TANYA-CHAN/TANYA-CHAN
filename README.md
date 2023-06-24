@@ -14,21 +14,24 @@
  -->
 <!-- # Hello, I am Tanya Chanchalani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 
+
+
+
 <p align="center">
-<a href="https://github.com/TANYA-CHAN">
+  <a href="https://github.com/TANYA-CHAN">
+    <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=default" />
+    <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=default" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
+    <img height="auto" width="95%" alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github" />
+  </a>
+</p>
 
- <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=default" />
 
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
- 
-<img height = auto width = 95% img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github" />
 
 <!--  <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=xcode"/>  -->
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=monokai" width = 100% height =auto/> -->
-</a> 
-</p>
+
 
 
 
