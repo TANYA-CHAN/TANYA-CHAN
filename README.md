@@ -1,6 +1,6 @@
 <!-- Hi there, I'm Tanya Chanchalani! 👋
 
-- 🔭 I’m currently working on Vaccination Sytem Using Ethereum
+- 🔭 I’m currently working on Vaccination System Using Ethereum
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: tanyapesu@gmail.com
@@ -15,7 +15,12 @@
 <!-- # Hello, I am Tanya Chanchalani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 <p align="center">
  <a href="https://github.com/TANYA-CHAN">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="display: flex; justify-content: center;">
+      <img height="189em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
+      <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
+    </div>
+    <img height="auto" width="95%" alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github" />
+      <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <div style="flex: 0 0 50%; margin: 10px;">
         <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=default" />
       </div>
@@ -23,11 +28,6 @@
         <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=default" />
       </div>
     </div>
-    <div style="display: flex; justify-content: center;">
-      <img height="189em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
-      <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact&theme=default"/>
-    </div>
-    <img height="auto" width="95%" alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github" />
   </a>
 </p>
 
