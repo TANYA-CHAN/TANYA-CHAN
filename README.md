@@ -21,12 +21,12 @@
     </div>
     <img height="auto" width="95%" alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TANYA-CHAN&theme=github" />
       <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-      <div style="flex: 0 0 50%; margin: 10px;">
+      <!-- <div style="flex: 0 0 50%; margin: 10px;">
         <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TANYA-CHAN&theme=default" />
-      </div>
-      <div style="flex: 0 0 50%; margin: 10px;">
+      </div> -->
+      <!-- <div style="flex: 0 0 50%; margin: 10px;">
         <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANYA-CHAN&theme=default" />
-      </div>
+      </div> -->
     </div>
   </a>
 </p> 
