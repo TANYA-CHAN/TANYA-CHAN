@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANYA-CHAN&layout=compact)](https://github.com/TANYA-CHAN/github-readme-stats)
  -->
 <!-- # Hello, I am Tanya Chanchalani <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
-<p align="center">
+<!-- <p align="center">
  <a href="https://github.com/TANYA-CHAN">
     <div style="display: flex; justify-content: center;">
       <img height="189em" src="https://github-readme-stats.vercel.app/api?username=TANYA-CHAN&show_icons=true&theme=default&count_private=true"/>
@@ -29,7 +29,7 @@
       </div>
     </div>
   </a>
-</p>
+</p> -->
 
 
 <!--  <img alt="Tanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TANYA-CHAN&theme=xcode"/>  -->
